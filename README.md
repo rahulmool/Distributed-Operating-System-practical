@@ -1,8 +1,8 @@
 # Distributed-Operating-System-practical
 output 5:
-<img src="https://raw.githubusercontent.com/rahulmool/Distributed-Operating-System-practical/blob/main/practical 5/practical 5.png"></img>
+<img src="https://raw.githubusercontent.com/rahulmool/Distributed-Operating-System-practical/main/practical%205/practical%205.png"></img>
 output 6:
-<img src="https://raw.githubusercontent.com/rahulmool/Distributed-Operating-System-practical/blob/main/practical 6/practical 6.png"></img>
+<img src="https://raw.githubusercontent.com/rahulmool/Distributed-Operating-System-practical/main/main/practical 6/practical 6.png"></img>
 output 7:
 <img src="https://raw.githubusercontent.com/rahulmool/Distributed-Operating-System-practical/blob/main/practical 7/practical 7.png"></img>
 output 8:
